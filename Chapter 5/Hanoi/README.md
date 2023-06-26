@@ -11,7 +11,7 @@ The objective of the puzzle is to move the entire stack to the last rod, obeying
 
 Write a code that inputs the number of disks, outputs each step in solving the puzzle, and outputs the number of moves required to solve the puzzle. 
 
-`Note that` **`A`** `refers to the first rod,` **`B`** `refers to the middle rod, and` **`C`** `refers to the last rod.`
+Note that **`A`** refers to the first rod, **`B`** refers to the middle rod, and **`C`** refers to the last rod.
 
 ## Example
 ### input
