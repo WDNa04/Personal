@@ -1,7 +1,7 @@
 ## Exercise
 The Tower of Hanoi is a mathematical game or puzzle consisting of three rods and a number of disks of various diameters, which can slide onto any rod. 
 
-![Alt text](https://en.wikipedia.org/wiki/File%253ATower_of_Hanoi.jpeg)
+![Alt text](600px-Tower_of_Hanoi.jpg)
 
 The objective of the puzzle is to move the entire stack to the last rod, obeying the following rules.
 
